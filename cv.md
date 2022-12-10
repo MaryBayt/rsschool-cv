@@ -40,6 +40,16 @@ Focused on writing clean code and learning new technologies.<br>
 
 ---
 
+### Favourite projects:
+
+**JavaScript**
+- [Instagram-like platform](https://github.com/MaryBayt/mesto): post, like photos, delete them, update the profile<br>
+
+**Responsive layout**
+- [Website "Learn to learn"](https://github.com/MaryBayt/how-to-learn)<br>
+
+---
+
 ### Courses:
 
 - [freecodecamp courses](https://www.freecodecamp.org/)<br>

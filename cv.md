@@ -50,6 +50,16 @@ Focused on writing clean code and learning new technologies.<br>
 
 ---
 
+### Education:
+
+**MGIMO Unversity** 2015-2019<br>
+graduated bachelor's in law with honours<br>
+
+**MGIMO Unversity** 2019-2021<br>
+graduated master's in law with honours<br>
+
+---
+
 ### Languages:
 
 - English \- Full working proficiency<br>

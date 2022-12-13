@@ -1,0 +1,242 @@
+* {
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+p {
+    font-size: 20px;
+}
+
+body {
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0;
+    color: #66BFBF;
+}
+
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3 {
+    color: #11999E;
+}
+
+h4 {
+    margin: 10px 0;
+    color: #11999E;
+}
+
+hr {
+    border: 8px dashed #EAF6F6;
+    border-style: none none dotted;
+    width: 80px;
+    margin: 50px auto;
+}
+
+img {
+    width: 20%;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.top-container {
+    padding-top: 100px;
+    position: relative;
+    background-color: #EFFFFD;
+}
+
+.middle-container {
+    background-color: #ffffff;
+}
+
+.bottom-container {
+    background-color:  #66BFBF;
+    line-height: 2;
+    padding: 20px 0;
+    margin: 80px 0 0;
+}
+
+.bottom-container p {
+    color: #11999e;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 13px;
+}
+
+.contacts-lead {
+    margin-bottom: 40px;
+}
+
+.first-cloud {
+    position: absolute;
+    right: 250px; 
+    top: 50px;
+    margin: 0;
+    width: auto;
+}
+
+.second-cloud {
+    position: absolute;
+    top: 450px;
+    left: 280px;
+    margin: 0;
+    width: auto;
+}
+
+.mountain {
+    margin: 40px auto 0;
+    width: auto;
+}
+
+.nav {
+    background: hsla(337, 15%, 83%, 1);
+    background: linear-gradient(180deg, hsla(337, 15%, 83%, 1) 0%, hsla(0, 0%, 100%, 1) 100%);
+    font-size: 25px;
+    padding: 40px 0;
+    margin: -5px 0 0;
+    position: sticky;
+} 
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+
+.nav-item:not(:last-of-type) {
+    margin: 0 60px 0 0;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #66BFBF;
+}
+
+.nav-link:hover {
+    cursor: pointer;
+    border-bottom: 8px dashed #fff;
+    border-style: none none dotted;
+    width: 80px;
+    margin: 50px auto;
+}
+
+.photo {
+    margin: 60px auto 50px;
+    width: 200px;
+    height: 200px;
+}
+
+.skill {
+    width: 50%;
+    margin: 50px auto;
+    text-align: center;
+    line-height: 2;
+    font-size: 18px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+    font-size: 18px;
+}
+
+.skill-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+}
+
+.courses-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.images-skills-1 {
+    float: left;
+}
+
+.images-skills-2 {
+    float: right;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: none;
+    margin: 20px auto 60px;
+}
+
+.btn:hover {
+    background: #30e3cb;
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+
+.middle-container h2 {
+    margin-bottom: 20px;
+}
+
+.project-link {
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.project-link:hover {
+    cursor: pointer;
+    border-bottom: 5px dashed #EAF6F6;
+    border-style: none none dotted;
+    width: 80px;
+    margin: 50px auto;
+}
+
+.uni {
+    margin: 10px 0;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.logo {
+    width: 3%;
+    margin: 0 0 0 20px;
+}
+
+.contacts h3 {
+    margin-bottom: 20px;
+}
+
+.footer-link {
+    color: #11999e;
+    text-decoration: none;
+}
+
+.footer-link:not(:last-of-type) {
+    margin-right: 20px;
+}
